@@ -10,4 +10,6 @@ void fast_print() {
 int main()
 {
     fast_print();
+
+    cout << "Changes" << endl;
 }
